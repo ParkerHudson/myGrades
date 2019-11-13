@@ -1,5 +1,5 @@
 /*
-By
+By Gregory Hudson
 Fall semester 2019 - COP 3530
 Program that implements the requirements of homework 
 */
