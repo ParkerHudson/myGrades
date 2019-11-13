@@ -1,5 +1,5 @@
 /*
-By
+By Gregory Hudson
 Fall 2019 - COP 3530
 
 */
