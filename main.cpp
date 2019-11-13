@@ -10,7 +10,7 @@ bool isSame(double x, double y);
 int main(void)
 {
 	// Put your name in the statement below
-	std::cout << "Homework x test case results by Your Name" << std::endl;
+	std::cout << "Homework 1 test case results by Gregory Hudson" << std::endl;
 
 	// test cases for default constructor
 	int testCount = 1;  // used to track test numbers
